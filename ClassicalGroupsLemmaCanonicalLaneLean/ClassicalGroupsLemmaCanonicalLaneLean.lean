@@ -1,0 +1,17 @@
+import ClassicalGroupsLemmaCanonicalLaneLean.AdmissibleClass
+import ClassicalGroupsLemmaCanonicalLaneLean.BridgeLemmas
+import ClassicalGroupsLemmaCanonicalLaneLean.GateLemmas
+import ClassicalGroupsLemmaCanonicalLaneLean.FinalTheorem
+import ClassicalGroupsLemmaCanonicalLaneLean.ClassicalGroupAdmittedObject
+import ClassicalGroupsLemmaCanonicalLaneLean.RootSystems
+import ClassicalGroupsLemmaCanonicalLaneLean.Representations
+import ClassicalGroupsLemmaCanonicalLaneLean.SchurWeylDuality
+import ClassicalGroupsLemmaCanonicalLaneLean.InvariantTheory
+
+namespace HautevilleHouse
+namespace ClassicalGroupsLemmaCanonicalLaneLean
+
+-- Root module for the Classical Groups Lemma package
+
+end ClassicalGroupsLemmaCanonicalLaneLean
+end HautevilleHouse
